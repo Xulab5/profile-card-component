@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./order-screenshot.jpg)
+![](./images/profile-component-preview.png)
 
 ### Links
 

@@ -81,7 +81,7 @@ To see how you can add code snippets, see below:
 
 - Website - [Xulab](https://substeven.netlify.app/)
 - Frontend Mentor - [@Xulab05](https://www.frontendmentor.io/profile/Xulab5)
-- Twitter - [@Xulab05](https://www.instagram.com/xulab05/)
+- Instagram - [@Xulab05](https://www.instagram.com/xulab05/)
 
 ## Acknowledgments
 I'd like to give thanks to Front-end for this awesome short project.
